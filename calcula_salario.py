@@ -15,3 +15,4 @@ salario_liquido = salario_bruto - descontos
 print("Voce ganha por mês R$:" + str(salario_bruto))
 print("Voce pagou  de INSS R$: " + str(inss))
 print("Voce pagou ao sindicato R$: "  + str(sindicato))
+print("voce pagou ao imposto de renda R$:" + str(ir))
