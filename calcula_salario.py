@@ -1,6 +1,6 @@
 hora = float (input("Quanto vc ganha por hora? "))
 
-horas_trabalhadas = int (input("Quantas horas voce trabalha por semana? "))
+horas_trabalhadas = int (input("Quantas horas voce trabalha por mês? "))
 
 salario_bruto = hora * horas_trabalhadas
 inss= (8*salario_bruto)/100
